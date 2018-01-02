@@ -34,5 +34,5 @@ dependencies {
     // support
     compile 'com.github.sinothk:support:1.7'
     // Media
-    compile 'com.github.sinothk:media:v1.2'
+    compile 'com.github.sinothk:media:v1.3'
 }
