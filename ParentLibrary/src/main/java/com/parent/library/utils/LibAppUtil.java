@@ -4,7 +4,7 @@ package com.parent.library.utils;
  * Created by 梁玉涛 on 2017/12/29.
  */
 
-public class AppUtil {
+public class LibAppUtil {
 
 
     public static int[] getScreen() {
