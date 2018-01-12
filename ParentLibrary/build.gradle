@@ -32,7 +32,7 @@ dependencies {
     testCompile 'junit:junit:4.12'
 
     // support
-    compile 'com.github.sinothk:support:1.7'
+    compile 'com.github.sinothk:support:v1.8'
     // Media
     compile 'com.github.sinothk:media:v1.3'
 }
